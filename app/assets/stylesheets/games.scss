@@ -1,0 +1,32 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+#input {
+  width: 40%;
+}
+
+body{
+  background-image: url(https://i.ytimg.com/vi/5tetNhoouJU/maxresdefault.jpg);
+}
+
+.titulo{
+  margin-bottom: 40px;
+}
+
+p{
+  margin: 0 auto;
+  font-size: 17px;
+}
+.letras{
+  background-color:red;
+  color: white;
+  margin: 7px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+h1{
+  border-bottom: 1px solid red;
+  width: 45%;
+  margin-left: 28%;
+}
